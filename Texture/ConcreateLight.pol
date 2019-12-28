@@ -1,0 +1,8 @@
+A
+850
+DRAPED_POLYGON
+LAYER_GROUP markings -4
+
+TEXTURE ConcreateLight.png
+SURFACE concreate
+SCALE 10 10

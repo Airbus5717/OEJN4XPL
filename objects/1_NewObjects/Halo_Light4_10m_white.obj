@@ -1,0 +1,13 @@
+I
+800
+OBJ
+
+TEXTURE	
+POINT_COUNTS	0 0 0 0
+
+
+
+LIGHT_PARAM	full_custom_halo_night	   0.0000   10.0000   -0.0000	0.8 1 1 1.0 150 0 0 -1 1
+#LIGHT_PARAM	full_custom_halo_night	   0.0000    4.9850   -0.0000	0.8 1 1 1.0 065 0.0 -0.985 -0.174 0.000 none
+
+# Built with SketchUp 18.0.16976. Exported with SketchUp2XPlane 1.70.

@@ -1,0 +1,10 @@
+A
+850
+DRAPED_POLYGON
+
+LAYER_GROUP markings -1
+TEXTURE yellow_grid.dds
+TEXTURE_NORMAL 1.0 red_grid_Normal.png
+SURFACE asphalt
+SCALE 2 2
+

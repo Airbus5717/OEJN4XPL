@@ -1,0 +1,8 @@
+A
+850
+DRAPED_POLYGON
+
+TEXTURE_NOWRAP standAct.png
+SCALE 25 25
+LAYER_GROUP objects +5
+SURFACE asphalt

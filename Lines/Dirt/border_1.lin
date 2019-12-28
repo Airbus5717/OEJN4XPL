@@ -1,0 +1,14 @@
+A
+850
+LINE_PAINT
+
+TEXTURE border_1.png
+#DECAL_LIB lib/g10/decals/flinty_dirt_2.dcl
+#DECAL_LIB lib/g10/decals/apt_asphalt.dcl
+TEX_WIDTH 1024
+
+SCALE 10.0 8.0
+S_OFFSET 0 283 512 739
+
+MIRROR
+LAYER_GROUP taxiways +1
