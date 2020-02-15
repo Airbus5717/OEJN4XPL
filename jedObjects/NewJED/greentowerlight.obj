@@ -1,0 +1,12 @@
+I
+800
+OBJ
+
+ATTR_layer_group	light_objects	0
+ATTR_layer_group_draped	light_objects	0
+POINT_COUNTS	0	0	0	0
+
+	LIGHT_PARAM full_custom_halo 0 0 0   1 1 1 5   200  0 1 0   0.9
+
+
+# Build with Blender 2.81 (sub 16) (build b'f1aa4d18d49d'). Exported with XPlane2Blender 4.0.0-alpha.3+61.20191212165331
