@@ -1,0 +1,11 @@
+A
+850
+DRAPED_POLYGON
+
+TEXTURE asphalt_fx.png
+SPECULAR 0.35
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl
+
+SCALE 25 25
+SURFACE asphalt
+LAYER_GROUP runways +3
